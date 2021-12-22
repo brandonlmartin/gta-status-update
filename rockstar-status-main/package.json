@@ -1,0 +1,9 @@
+{
+  "name": "rockstar-services-status",
+  "version": "1.0",
+  "description": "Simple Rockstar Games service status API wrapper",
+  "main": "rockstar-status.js",
+  "repository": "",
+  "author": "Beowulf_50",
+  "license": "MIT"
+}
